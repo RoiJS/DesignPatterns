@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleInheritanceDecorato
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticCompositionDecoratorPattern", "StaticCompositionDecoratorPattern\StaticCompositionDecoratorPattern.csproj", "{B59FAB30-C60D-4DDD-AEB1-AAF2A4E3C97E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "..\AdapterPattern\AdapterPattern.csproj", "{EC3EBB63-CC70-420F-9576-C8AADA2647AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern", "..\AdapterPattern\AdapterPattern.csproj", "{EC3EBB63-CC70-420F-9576-C8AADA2647AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{669561DF-DDC3-42DB-B682-6967A6851ADC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{EC3EBB63-CC70-420F-9576-C8AADA2647AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3EBB63-CC70-420F-9576-C8AADA2647AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3EBB63-CC70-420F-9576-C8AADA2647AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669561DF-DDC3-42DB-B682-6967A6851ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669561DF-DDC3-42DB-B682-6967A6851ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669561DF-DDC3-42DB-B682-6967A6851ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669561DF-DDC3-42DB-B682-6967A6851ADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
